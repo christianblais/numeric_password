@@ -5,6 +5,7 @@ NumericPassword is a jQuery plugin that transforms a normal password input into 
 Screenshots
 -----------
 ![Example 1](https://github.com/christianblais/numeric_password/raw/master/screenshots/screenshot-1.png "Example 1")
+![Example 2](https://github.com/christianblais/numeric_password/raw/master/screenshots/screenshot-2.png "Example 2")
 
 Requirement
 -----------
